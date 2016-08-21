@@ -1,5 +1,7 @@
 # Opensim Modules -> Joomla OpenSim
 
-# Search Profile
+# Search
 
-# Payments Search
+# Profile
+
+# Payments
